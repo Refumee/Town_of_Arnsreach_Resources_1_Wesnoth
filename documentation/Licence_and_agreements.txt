@@ -26,12 +26,6 @@ This document is a list of agreements and licenses for the "Town of Arnsreach". 
     https://samplefocus.com/license
     by Mike VE
 	
-	wind-outside-sound-ambient-141989.mp3 -> windy.wav
-	Alteration: cut, fade in, fade out.
-    https://pixabay.com/sound-effects/wind-outside-sound-ambient-141989/
-    https://pixabay.com/service/license-summary/
-    by SoundsForYou
-	
 	467693__lucasduff__chronomancy.mp3 -> time_passage.wav
 	Alteration: tempo increased.
     https://freesound.org/people/LucasDuff/sounds/467693/
@@ -50,7 +44,7 @@ This document is a list of agreements and licenses for the "Town of Arnsreach". 
 	https://freesound.org/people/Nox_Sound/sounds/558967/
 	by Nox_Sound
 	
-	chopping-a-tree-with-hatchet-in-a-forest-close-up-68478.wav
+	chopping-a-tree-with-hatchet-in-a-forest-close-up-68478.ogg
 	Alteration: cut, fade in, fade out.
 	https://pixabay.com/service/license-summary/
 	https://pixabay.com/sound-effects/search/wood-chopping/
@@ -62,47 +56,29 @@ This document is a list of agreements and licenses for the "Town of Arnsreach". 
 	https://freesound.org/people/Anomaex/sounds/490253/
 	by Anomaex
 	
-	519520__nivatius__maple-fire.mp3 -> wildfire.wav
-	Alteration: cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/Nivatius/sounds/519520/
-	by Nivatius
-	
-	676094__soupods__heavy-rain.mp3 -> rain_heavy.wav
-	Alteration: cut, cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/soupods/sounds/676094/
-	by soupods
-	
-	50057__vibe_crc__rain_session_11sec_2006.wav -> rain_light.wav
-	Alteration: cut, cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/vibe_crc/sounds/50057/
-	by vibe_crc
-	
-	766719__restful_dreaming_tunes__sounds-of-nature-wind-in-the-desert.mp3 -> duststorm.wav
-	Alteration: cut, cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/restful_dreaming_tunes/sounds/766719/
-	by restful_dreaming_tunes
-	
-	393819__kinoton__underwater-ambience.wav -> underwater.wav
-	Alteration: cut, cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/Kinoton/sounds/393819/
-	by Kinoton
-	
-	654669__deadrobotmusic__windchime-chord-1-g-sharp-minor.wav -> magic_land.wav
-	Alteration: cut, cross-faded for repeating
-	https://creativecommons.org/publicdomain/zero/1.0/
-	https://freesound.org/people/deadrobotmusic/sounds/654669/
-	by deadrobotmusic
-	
 	491405__ienba__crowd-in-panic.wav -> crowd_panic_screaming.wav
 	Alteration: cut, cross-faded for repeating, dampened
 	https://creativecommons.org/publicdomain/zero/1.0/
 	https://freesound.org/people/IENBA/sounds/491405/
 	by IENBA
+	
+	203117__sclolex__sleepingcavemonster.wav -> cave_snoring.ogg
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/Sclolex/sounds/203117/
+	by Sclolex
+	
+	442479__bonnyorbit__big-waterfall-from-stone-bridge.wav -> waterfall.ogg
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/BonnyOrbit/sounds/442479/
+	by BonnyOrbit
+	
+	88530__northern87__crowd-outdoors_northern87.wav -> crowd_excited.ogg
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/northern87/sounds/88530/
+	by northern87
 	
 -->>Sound files, found in sounds folder ..
 
