@@ -80,6 +80,19 @@ This document is a list of agreements and licenses for the "Town of Arnsreach". 
 	https://freesound.org/people/northern87/sounds/88530/
 	by northern87
 	
+	751713__el_boss__yeti-roar-skiing-game-roar-sfx-remix-2-of-2.wav -> monster_growl.wav
+	Alteration: nothing
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/el_boss/sounds/751713/
+	by el_boss
+	
+	473601__czghost__war_horn.wav -> saurian_war_horn.ogg
+	Alteration: pitch and tempo
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/CZghost/sounds/473601/
+	by CZghost
+	
+	
 -->>Sound files, found in sounds folder ..
 
 --<<Image files, found in images folder ..
