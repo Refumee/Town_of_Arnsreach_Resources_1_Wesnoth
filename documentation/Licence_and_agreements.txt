@@ -1,0 +1,152 @@
+This document is a list of agreements and licenses for the "Town of Arnsreach". Should contain all relevant information about assets used that does not belong to the "Battle for Wesnoth" project itself or that was not created by the mod authors.
+
+--<<Sound files, found in sounds folder ..
+
+	bubbling-brook-2_87bpm.wav -> not renamed
+    Alteration: cut, fade in, fade out.
+    https://samplefocus.com/users/user298036450017/samples
+    https://samplefocus.com/license
+    by user298036450017
+
+	rumor-sound-sea-foam_92bpm.wav -> not renamed
+    Alteration: cut, fade in, fade out.
+    https://samplefocus.com/users/kalcau/samples
+    https://samplefocus.com/license
+    by KALCAU$
+
+	wind-gust_A_minor.wav -> not renamed
+    Alteration: cut, fade in, fade out.
+    https://samplefocus.com/users/public-domain/samples
+    https://samplefocus.com/license
+    by Public Domain
+
+	howling-wolf-sound-fx_C_major -> not renamed
+    Alteration: cut, fade in, fade out.
+    https://samplefocus.com/users/mike-ve/samples
+    https://samplefocus.com/license
+    by Mike VE
+	
+	wind-outside-sound-ambient-141989.mp3 -> windy.wav
+	Alteration: cut, fade in, fade out.
+    https://pixabay.com/sound-effects/wind-outside-sound-ambient-141989/
+    https://pixabay.com/service/license-summary/
+    by SoundsForYou
+	
+	467693__lucasduff__chronomancy.mp3 -> time_passage.wav
+	Alteration: tempo increased.
+    https://freesound.org/people/LucasDuff/sounds/467693/
+    https://creativecommons.org/publicdomain/zero/1.0/
+    by LucasDuff
+	
+	328743__buythefield__war-drums-1.wave -> drums.wav
+	Alteration: cut, echo, reverb.
+    https://freesound.org/people/BuytheField/sounds/328743/
+    https://creativecommons.org/publicdomain/zero/1.0/
+    by BuytheField
+	
+	558967__nox_sound__ambiance_campfire_loop_stereo.wav -> campfire.wav
+	Alteration: none
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/Nox_Sound/sounds/558967/
+	by Nox_Sound
+	
+	chopping-a-tree-with-hatchet-in-a-forest-close-up-68478.wav
+	Alteration: cut, fade in, fade out.
+	https://pixabay.com/service/license-summary/
+	https://pixabay.com/sound-effects/search/wood-chopping/
+	by unknown
+	
+	490253__anomaex__sci-fi_explosion.wav -> 490253__anomaex__sci-fi_explosion_cut.wav
+	Alteration: cut and muted
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/Anomaex/sounds/490253/
+	by Anomaex
+	
+	519520__nivatius__maple-fire.mp3 -> wildfire.wav
+	Alteration: cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/Nivatius/sounds/519520/
+	by Nivatius
+	
+	676094__soupods__heavy-rain.mp3 -> rain_heavy.wav
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/soupods/sounds/676094/
+	by soupods
+	
+	50057__vibe_crc__rain_session_11sec_2006.wav -> rain_light.wav
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/vibe_crc/sounds/50057/
+	by vibe_crc
+	
+	766719__restful_dreaming_tunes__sounds-of-nature-wind-in-the-desert.mp3 -> duststorm.wav
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/restful_dreaming_tunes/sounds/766719/
+	by restful_dreaming_tunes
+	
+	393819__kinoton__underwater-ambience.wav -> underwater.wav
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/Kinoton/sounds/393819/
+	by Kinoton
+	
+	654669__deadrobotmusic__windchime-chord-1-g-sharp-minor.wav -> magic_land.wav
+	Alteration: cut, cross-faded for repeating
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/deadrobotmusic/sounds/654669/
+	by deadrobotmusic
+	
+	491405__ienba__crowd-in-panic.wav -> crowd_panic_screaming.wav
+	Alteration: cut, cross-faded for repeating, dampened
+	https://creativecommons.org/publicdomain/zero/1.0/
+	https://freesound.org/people/IENBA/sounds/491405/
+	by IENBA
+	
+-->>Sound files, found in sounds folder ..
+
+--<<Image files, found in images folder ..
+
+	water_hole.png
+	https://free-images.com/display/yellowstone_hot_spring_geothermal.html
+	licence: CC0
+	by unknown
+	
+	merchant.png
+	by Dugi, creator of Ledgends of the invincible
+	
+	Jagged_coast.png
+	Alteration: resized, faded, partly erased, filtered.
+	https://unsplash.com/photos/brown-rock-VAT9QBZmadg
+	https://unsplash.com/license
+	by Andria Gutierrez
+
+	hourglass-1425727_1280.png -> all files inside the Time_Passing_Animation folder
+	Alteration: resized, partly erased.
+	https://pixabay.com/vectors/hourglass-time-season-spring-1425727/
+	https://pixabay.com/service/license-summary/
+	by Guggenberger_El
+	
+	
+-->>Image files, found in images folder ..
+
+--<<Code
+
+-->>Code
+
+--<<Communicated agreements (with other mod authors)
+
+	--<<To Lands Unkown + Era_of_Magic + Any resources attached
+
+		Durzi
+		Hi again, I'd like to ask permission to use your assets for another mod: .. -Arnsreach- .. At this point we are looking for some elemental units and would like to use yours for this project. Is that fine?
+
+		inferno8
+		Sure! Feel free to use my assets for your new project. Good luck!
+		
+	-->>To Lands Unkown + Era_of_Magic + Any resources attached
+	
+-->>Communicated agreements (from other mod authors)
+
+
